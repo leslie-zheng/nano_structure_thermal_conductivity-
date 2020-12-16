@@ -1,4 +1,8 @@
 # nano_structure_thermal_conductivity-
+
+this simple script allows you to calculate the in plane and cross plane thermal conductivity in thin film based on the cumulative thermal conductivity VS. mean free path curve
+of bulk materials, here the thickness of thin film is thick enough not the single layer or double layer thin film.
+
 calculate nanostructure thermal conductivity using cumulative thermal
 conductivity and mfp relation
 

@@ -1,4 +1,5 @@
 #!/bin/python
+#copyright Zheng, Jiongzhi @2020
 """
 calculate nanostructure thermal conductivity using cumulative thermal
 conductivity and mfp relation
